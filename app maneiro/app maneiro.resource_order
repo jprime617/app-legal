@@ -1,0 +1,28 @@
+{
+  "FolderOrderSettings": [
+    {"name":"Anotações","order":13,"path":"folders/Anotações.yy",},
+    {"name":"Caminhos","order":4,"path":"folders/Caminhos.yy",},
+    {"name":"Cenas","order":10,"path":"folders/Cenas.yy",},
+    {"name":"Conjuntos de tiles","order":2,"path":"folders/Conjuntos de tiles.yy",},
+    {"name":"Curvas da animação","order":12,"path":"folders/Curvas da animação.yy",},
+    {"name":"Extensões","order":14,"path":"folders/Extensões.yy",},
+    {"name":"Fontes","order":7,"path":"folders/Fontes.yy",},
+    {"name":"Linhas do tempo","order":8,"path":"folders/Linhas do tempo.yy",},
+    {"name":"Objetos","order":9,"path":"folders/Objetos.yy",},
+    {"name":"Particle Systems","order":15,"path":"folders/Particle Systems.yy",},
+    {"name":"Scripts","order":5,"path":"folders/Scripts.yy",},
+    {"name":"Sequências","order":11,"path":"folders/Sequências.yy",},
+    {"name":"Shaders","order":6,"path":"folders/Shaders.yy",},
+    {"name":"Sons","order":3,"path":"folders/Sons.yy",},
+    {"name":"Sprites","order":1,"path":"folders/Sprites.yy",},
+  ],
+  "ResourceOrderSettings": [
+    {"name":"Obj_botoes6","order":6,"path":"objects/Obj_botoes6/Obj_botoes6.yy",},
+    {"name":"Obj_botoes2","order":2,"path":"objects/Obj_botoes2/Obj_botoes2.yy",},
+    {"name":"Obj_botoes3","order":3,"path":"objects/Obj_botoes3/Obj_botoes3.yy",},
+    {"name":"Spr_botao","order":1,"path":"sprites/Spr_botao/Spr_botao.yy",},
+    {"name":"Obj_botoes5","order":5,"path":"objects/Obj_botoes5/Obj_botoes5.yy",},
+    {"name":"Obj_botoes","order":1,"path":"objects/Obj_botoes/Obj_botoes.yy",},
+    {"name":"Obj_botoes4","order":4,"path":"objects/Obj_botoes4/Obj_botoes4.yy",},
+  ],
+}
