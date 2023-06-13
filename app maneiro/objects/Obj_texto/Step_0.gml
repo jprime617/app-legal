@@ -10,8 +10,9 @@
     if (keyboard_lastchar() != "") {
         input_string += keyboard_lastchar();
     }
-}*/
-
+}
+*/
+//espaço pula linha por algum motivo
 
 if keyboard_check_pressed(vk_f1){
 
@@ -22,3 +23,4 @@ if keyboard_check(vk_control){
 show_message(texto)
 
 }
+
