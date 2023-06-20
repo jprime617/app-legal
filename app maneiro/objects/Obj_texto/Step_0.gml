@@ -14,7 +14,8 @@
 */
 //espaço pula linha por algum motivo
 
-if keyboard_check_pressed(vk_f1){
+
+/*if keyboard_check_pressed(vk_f1){
 
 texto = keyboard_string
 

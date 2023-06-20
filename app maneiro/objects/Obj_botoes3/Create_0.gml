@@ -4,3 +4,4 @@ touf = 1
 xlegal = 275
 ylegal = 108
 
+botao_spr = Spr_botao

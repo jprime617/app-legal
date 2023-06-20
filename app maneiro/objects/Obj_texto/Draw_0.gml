@@ -1,4 +1,13 @@
-draw_text(250,500,keyboard_string);
+
+
+//draw_rectangle(x, y, x + width, y + height, c_white, true);
+draw_set_color(c_black);
+//draw_set_font(font);
+draw_text(x , y , texto);
+
+
+
+//draw_text(250,500,keyboard_string);
 
 
 /*var max_width = 20; // Largura máxima da caixa de texto
