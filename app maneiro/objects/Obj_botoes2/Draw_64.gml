@@ -41,7 +41,7 @@ if point_in_rectangle(mx,my,x1 - _sprw,y1 - _sprh,x1 + _sprw,y1 + _sprh){
 botao_spr = Spr_botao_per
 
 if mouse_check_button(mb_left){
-show_message("sexokkk")	
+room_goto(Room_musicas)	
 }
 }else{
 botao_spr = Spr_botao	

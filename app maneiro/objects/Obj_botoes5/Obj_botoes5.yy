@@ -10,8 +10,8 @@
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "botoes bizarros",
-    "path": "folders/Objetos/botoes bizarros.yy",
+    "name": "botoes principal",
+    "path": "folders/Objetos/botoes principal.yy",
   },
   "parentObjectId": null,
   "persistent": false,
