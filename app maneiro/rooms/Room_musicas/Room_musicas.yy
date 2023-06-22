@@ -9,12 +9,18 @@
   "instanceCreationOrder": [
     {"name":"inst_6B087515","path":"rooms/Room_musicas/Room_musicas.yy",},
     {"name":"inst_7D04CAED","path":"rooms/Room_musicas/Room_musicas.yy",},
+    {"name":"inst_1B8B4E57","path":"rooms/Room_musicas/Room_musicas.yy",},
+    {"name":"inst_36C7448D","path":"rooms/Room_musicas/Room_musicas.yy",},
+    {"name":"inst_79497D61","path":"rooms/Room_musicas/Room_musicas.yy",},
   ],
   "isDnd": false,
   "layers": [
     {"resourceType":"GMRInstanceLayer","resourceVersion":"1.0","name":"Instances","depth":0,"effectEnabled":true,"effectType":null,"gridX":15,"gridY":15,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_6B087515","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"Obj_botao_M","path":"objects/Obj_botao_M/Obj_botao_M.yy",},"properties":[],"rotation":0.0,"scaleX":0.9375,"scaleY":0.9907723,"x":90.0,"y":90.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_7D04CAED","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"Obj_botao_M2","path":"objects/Obj_botao_M2/Obj_botao_M2.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":90.0,"y":375.0,},
+        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_1B8B4E57","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"Obj_botao_M3","path":"objects/Obj_botao_M3/Obj_botao_M3.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":90.0,"y":615.0,},
+        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_36C7448D","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"Obj_botao_M4","path":"objects/Obj_botao_M4/Obj_botao_M4.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":90.0,"y":885.0,},
+        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_79497D61","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"Obj_botao_M5","path":"objects/Obj_botao_M5/Obj_botao_M5.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":105.0,"y":1215.0,},
       ],"layers":[],"properties":[],"userdefinedDepth":false,"visible":true,},
     {"resourceType":"GMRBackgroundLayer","resourceVersion":"1.0","name":"Background","animationFPS":30.0,"animationSpeedType":0,"colour":4284506208,"depth":100,"effectEnabled":true,"effectType":null,"gridX":30,"gridY":30,"hierarchyFrozen":false,"hspeed":0.0,"htiled":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"properties":[],"spriteId":{"name":"Spr_background","path":"sprites/Spr_background/Spr_background.yy",},"stretch":false,"userdefinedAnimFPS":false,"userdefinedDepth":false,"visible":true,"vspeed":0.0,"vtiled":false,"x":0,"y":0,},
   ],
