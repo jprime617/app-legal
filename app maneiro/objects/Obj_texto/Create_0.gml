@@ -1,3 +1,3 @@
 text="";
 delete_timer = 2;
-maxStringLength = 45;
+//maxStringLength = 45;
