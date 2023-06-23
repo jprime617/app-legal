@@ -33,12 +33,14 @@
   "isEcma": false,
   "LibraryEmitters": [],
   "MetaData": {
-    "IDEVersion": "2023.2.1.75",
+    "IDEVersion": "2023.4.0.84",
   },
   "resources": [
     {"id":{"name":"Spr_background","path":"sprites/Spr_background/Spr_background.yy",},},
+    {"id":{"name":"Spr_text","path":"sprites/Spr_text/Spr_text.yy",},},
     {"id":{"name":"Spr_stop","path":"sprites/Spr_stop/Spr_stop.yy",},},
     {"id":{"name":"Obj_botao_M2","path":"objects/Obj_botao_M2/Obj_botao_M2.yy",},},
+    {"id":{"name":"Font2","path":"fonts/Font2/Font2.yy",},},
     {"id":{"name":"Obj_botao_M4","path":"objects/Obj_botao_M4/Obj_botao_M4.yy",},},
     {"id":{"name":"Obj_botao_M3","path":"objects/Obj_botao_M3/Obj_botao_M3.yy",},},
     {"id":{"name":"Spr_stop_per","path":"sprites/Spr_stop_per/Spr_stop_per.yy",},},

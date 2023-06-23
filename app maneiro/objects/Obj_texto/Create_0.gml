@@ -1,4 +1,3 @@
-texto=""
-width = 10
-height = 10
-
+text="";
+delete_timer = 2;
+maxStringLength = 45;

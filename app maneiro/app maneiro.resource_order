@@ -19,8 +19,10 @@
     {"name":"Sprites","order":1,"path":"folders/Sprites.yy",},
   ],
   "ResourceOrderSettings": [
+    {"name":"Spr_text","order":10,"path":"sprites/Spr_text/Spr_text.yy",},
     {"name":"Spr_stop","order":8,"path":"sprites/Spr_stop/Spr_stop.yy",},
     {"name":"Obj_botao_M2","order":2,"path":"objects/Obj_botao_M2/Obj_botao_M2.yy",},
+    {"name":"Font2","order":1,"path":"fonts/Font2/Font2.yy",},
     {"name":"Obj_botao_M4","order":4,"path":"objects/Obj_botao_M4/Obj_botao_M4.yy",},
     {"name":"Obj_botao_M3","order":3,"path":"objects/Obj_botao_M3/Obj_botao_M3.yy",},
     {"name":"Spr_stop_per","order":9,"path":"sprites/Spr_stop_per/Spr_stop_per.yy",},
