@@ -17,6 +17,7 @@
     {"name":"Shaders","order":6,"path":"folders/Shaders.yy",},
     {"name":"Sons","order":3,"path":"folders/Sons.yy",},
     {"name":"Sprites","order":1,"path":"folders/Sprites.yy",},
+    {"name":"botoes quiz","order":4,"path":"folders/Objetos/botoes quiz.yy",},
   ],
   "ResourceOrderSettings": [
     {"name":"Spr_text","order":10,"path":"sprites/Spr_text/Spr_text.yy",},
