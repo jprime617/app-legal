@@ -36,7 +36,7 @@ var y1 = 1400 + _sprh // X do segundo ponto
 
 draw_sprite_ext(botao_spr,0,x1,y1,bscale,bscale,0,c_white,balpha)
 
-if point_in_rectangle(mx,my,x1 - _sprw,y1 - _sprh,x1 + _sprw,y1 + _sprh){
+if point_in_rectangle(mx,my,x1 - _sprw,y1 - _sprh,x1 + _sprw,y1 + _sprh) && global.seguir = 1{
 
 botao_spr = Spr_botao_per
 
