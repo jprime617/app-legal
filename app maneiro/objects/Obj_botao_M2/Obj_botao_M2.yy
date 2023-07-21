@@ -13,8 +13,8 @@
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "botoes musicas",
-    "path": "folders/Objetos/botoes musicas.yy",
+    "name": "objs musicas",
+    "path": "folders/Objetos/objs musicas.yy",
   },
   "parentObjectId": null,
   "persistent": false,

@@ -10,8 +10,8 @@
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Objetos",
-    "path": "folders/Objetos.yy",
+    "name": "objs template",
+    "path": "folders/Objetos/objs template.yy",
   },
   "parentObjectId": null,
   "persistent": false,

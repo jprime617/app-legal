@@ -9,8 +9,8 @@
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "botoes principal",
-    "path": "folders/Objetos/botoes principal.yy",
+    "name": "objs principal",
+    "path": "folders/Objetos/objs principal.yy",
   },
   "parentObjectId": null,
   "persistent": false,
