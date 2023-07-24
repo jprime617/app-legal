@@ -73,6 +73,7 @@
     {"id":{"name":"Obj_botao_voltar","path":"objects/Obj_botao_voltar/Obj_botao_voltar.yy",},},
     {"id":{"name":"Obj_texto","path":"objects/Obj_texto/Obj_texto.yy",},},
     {"id":{"name":"Obj_botao_M","path":"objects/Obj_botao_M/Obj_botao_M.yy",},},
+    {"id":{"name":"Obj_save","path":"objects/Obj_save/Obj_save.yy",},},
     {"id":{"name":"Room_quiz","path":"rooms/Room_quiz/Room_quiz.yy",},},
     {"id":{"name":"Spr_botao_per","path":"sprites/Spr_botao_per/Spr_botao_per.yy",},},
     {"id":{"name":"Sound_3","path":"sounds/Sound_3/Sound_3.yy",},},

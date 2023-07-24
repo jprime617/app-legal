@@ -49,6 +49,7 @@
     {"name":"Obj_calendario2","order":7,"path":"objects/Obj_calendario2/Obj_calendario2.yy",},
     {"name":"Font3","order":2,"path":"fonts/Font3/Font3.yy",},
     {"name":"Obj_botao_voltar","order":6,"path":"objects/Obj_botao_voltar/Obj_botao_voltar.yy",},
+    {"name":"Obj_save","order":8,"path":"objects/Obj_save/Obj_save.yy",},
     {"name":"Room_quiz","order":3,"path":"rooms/Room_quiz/Room_quiz.yy",},
     {"name":"Spr_botao_per","order":3,"path":"sprites/Spr_botao_per/Spr_botao_per.yy",},
     {"name":"Sound_3","order":2,"path":"sounds/Sound_3/Sound_3.yy",},

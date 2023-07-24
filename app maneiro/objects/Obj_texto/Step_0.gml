@@ -1,16 +1,16 @@
 if (keyboard_check(vk_anykey)) {
-    text += string(keyboard_string);
+     global.text += string(keyboard_string);
     keyboard_string = "";
 }
 
 if (keyboard_check(vk_backspace) && !keyboard_check_pressed(vk_backspace) && delete_timer == 2) {
-    text = string_delete(text, string_length(text), 1);
+    global.text = string_delete(global.text, string_length(global.text), 1);
     delete_timer = 0;
     keyboard_string = "";
 }
 
 if (keyboard_check_pressed(vk_backspace)) {
-    text = string_delete(text, string_length(text), 1);
+     global.text = string_delete(global.text, string_length(global.text), 1);
     delete_timer = -4;
     keyboard_string = "";
 }
@@ -20,7 +20,7 @@ if (delete_timer != 2) {
 }
 
 if (keyboard_check_pressed(vk_enter)) {
-    text += "\n";
+    global.text += "\n";
     keyboard_string = "";
 }
 
