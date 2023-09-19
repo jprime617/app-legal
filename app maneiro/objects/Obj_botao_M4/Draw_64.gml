@@ -47,6 +47,7 @@ draw_sprite_ext(stop_spr,0,xx1,yy1,bscale,bscale,0,c_white,balpha)
 if point_in_rectangle(xx,xy,xx1 - _sprw2,yy1 - _sprh2,xx1 + _sprw2,yy1 + _sprh2){
 	stop_spr = Spr_stop_per
 	if mouse_check_button_pressed(mb_left){
+	velocidadareta = x
 	audio_stop_sound(som)
 	pause = 0
 	}
@@ -57,6 +58,7 @@ if point_in_rectangle(xx,xy,xx1 - _sprw2,yy1 - _sprh2,xx1 + _sprw2,yy1 + _sprh2)
 //PARADA PROS BOTAO VAZA
 if !audio_is_playing(som){
  	pause = 0
+	velocidadareta = x
 }
 
 // SPR PAUSE/PLAY
@@ -69,3 +71,5 @@ draw_sprite_ext(Spr_play,0,x,y,1,1,0,c_white,palpha)
 }if pause = 0 {
  palpha = 0
 }
+
+

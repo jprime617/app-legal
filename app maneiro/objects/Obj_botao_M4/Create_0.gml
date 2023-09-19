@@ -7,6 +7,9 @@ pause = 0
 som = Sound_4
 xkk1 = x + 650
 ykk1 = y + 45
+audiotemp1 = audio_sound_length(som) * 60
+velocidadeaudio = 549/audiotemp1
+velocidadareta = x
 
 stop_spr = Spr_stop
 

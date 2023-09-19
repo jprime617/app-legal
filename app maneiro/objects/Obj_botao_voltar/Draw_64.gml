@@ -9,7 +9,7 @@ var x1 = x + _sprw // X do primeiro ponto
 var y1 = y + _sprh // X do segundo ponto
 
 
-draw_sprite_ext(botao_spr,0,x1,y1,bscale,bscale,0,c_white,balpha)
+draw_sprite_ext(botao_spr,0,x1,y1,xscale,bscale,0,c_white,balpha)
 
 if point_in_rectangle(mx,my,x1 - _sprw,y1 - _sprh,x1 + _sprw,y1 + _sprh){
 	
