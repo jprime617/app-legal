@@ -69,4 +69,6 @@ draw_sprite_ext(Spr_play,0,x,y,1,1,0,c_white,palpha)
 }if pause = 0 {
  palpha = 0
 }
+draw_set_font(Font3)
+draw_text(350,1650,velocidadareta)
 
