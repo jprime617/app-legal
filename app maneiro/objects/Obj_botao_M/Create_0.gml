@@ -11,6 +11,7 @@ audiotemp1 = audio_sound_length(som) * 60
 velocidadeaudio = 549/audiotemp1
 velocidadareta = x
 
+
 stop_spr = Spr_stop
 
 botao_spr = Spr_botao_musicas

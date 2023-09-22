@@ -51,6 +51,7 @@
     {"name":"Room_musicas2","order":5,"path":"rooms/Room_musicas2/Room_musicas2.yy",},
     {"name":"Obj_salvar","order":1,"path":"objects/Obj_salvar/Obj_salvar.yy",},
     {"name":"Obj_botao_M3","order":7,"path":"objects/Obj_botao_M3/Obj_botao_M3.yy",},
+    {"name":"Spr_boneco","order":14,"path":"sprites/Spr_boneco/Spr_boneco.yy",},
     {"name":"Obj_calendario2","order":7,"path":"objects/Obj_calendario2/Obj_calendario2.yy",},
     {"name":"Sound_91","order":9,"path":"sounds/Sound_91/Sound_91.yy",},
     {"name":"Obj_botao_M7","order":2,"path":"objects/Obj_botao_M7/Obj_botao_M7.yy",},

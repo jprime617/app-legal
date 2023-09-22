@@ -71,6 +71,7 @@
     {"id":{"name":"Obj_salvar","path":"objects/Obj_salvar/Obj_salvar.yy",},},
     {"id":{"name":"Obj_botoes","path":"objects/Obj_botoes/Obj_botoes.yy",},},
     {"id":{"name":"Obj_botao_M3","path":"objects/Obj_botao_M3/Obj_botao_M3.yy",},},
+    {"id":{"name":"Spr_boneco","path":"sprites/Spr_boneco/Spr_boneco.yy",},},
     {"id":{"name":"Font","path":"fonts/Font/Font.yy",},},
     {"id":{"name":"Obj_botao_quiz","path":"objects/Obj_botao_quiz/Obj_botao_quiz.yy",},},
     {"id":{"name":"Obj_calendario2","path":"objects/Obj_calendario2/Obj_calendario2.yy",},},
