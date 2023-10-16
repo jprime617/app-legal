@@ -6,8 +6,8 @@ var my = device_mouse_y_to_gui(0);
 var _sprw = sprite_get_width(Spr_botao)/2
 var _sprh = sprite_get_height(Spr_botao)/2
 
-var x1 = 100 + _sprw // X do primeiro ponto
-var y1 = 1100 + _sprh // X do segundo ponto
+var x1 = x + _sprw // X do primeiro ponto
+var y1 = y + _sprh // X do segundo ponto
 
 
 draw_sprite_ext(botao_spr,0,x1,y1,bscale,bscale,0,c_white,balpha)
