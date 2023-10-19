@@ -16,8 +16,8 @@ if point_in_rectangle(mx,my,x1 - _sprw,y1 - _sprh,x1 + _sprw,y1 + _sprh) && glob
 	
 botao_spr = Spr_botao_quiz_per
 
-if mouse_check_button_pressed(mb_left) {
-global.pontos += 10;	
+if mouse_check_button_pressed(mb_left){
+global.pontos += 30;
 global.pergunta += 1;
 }
 
@@ -28,5 +28,5 @@ botao_spr = Spr_botao_quiz
 //Escrever texto
 
 	draw_set_color(c_white);
-	draw_text_ext_transformed(x + 70, y + 45,"Nunca",25, 741, 2, 2, 0);
+	draw_text_ext_transformed(x + 70, y + 45,"Sempre",25, 741, 2, 2, 0);
 	draw_set_font(Font2);
