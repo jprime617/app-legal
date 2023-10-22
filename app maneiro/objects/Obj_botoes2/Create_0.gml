@@ -4,4 +4,4 @@ touf = 1
 xlegal = 275
 ylegal = 108
 
-botao_spr = Spr_botao
+botao_spr = Spr_principal_musicas

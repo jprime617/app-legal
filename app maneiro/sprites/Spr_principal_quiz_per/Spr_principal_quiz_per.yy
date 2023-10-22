@@ -1,10 +1,10 @@
 {
   "resourceType": "GMSprite",
   "resourceVersion": "1.0",
-  "name": "Spr_boneco",
-  "bbox_bottom": 0,
+  "name": "Spr_principal_quiz_per",
+  "bbox_bottom": 389,
   "bbox_left": 0,
-  "bbox_right": 0,
+  "bbox_right": 413,
   "bbox_top": 0,
   "bboxMode": 0,
   "collisionKind": 1,
@@ -13,17 +13,17 @@
   "edgeFiltering": false,
   "For3D": false,
   "frames": [
-    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"38eca4ef-cbb8-4ca6-bdae-d4dc437646b3",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"027b7593-5b8d-45a3-b264-2beb72f36186",},
   ],
   "gridX": 0,
   "gridY": 0,
-  "height": 64,
+  "height": 390,
   "HTile": false,
   "layers": [
-    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"00b8ebd4-a9ba-4cce-9507-90338b2558db","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"d45cff4b-866d-4f71-b731-bfa63bfdc4b8","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
   ],
   "nineSlice": null,
-  "origin": 0,
+  "origin": 4,
   "parent": {
     "name": "Sprites",
     "path": "folders/Sprites.yy",
@@ -32,7 +32,7 @@
   "sequence": {
     "resourceType": "GMSequence",
     "resourceVersion": "1.4",
-    "name": "Spr_boneco",
+    "name": "Spr_principal_quiz_per",
     "autoRecord": true,
     "backdropHeight": 768,
     "backdropImageOpacity": 0.5,
@@ -54,13 +54,13 @@
     "timeUnits": 1,
     "tracks": [
       {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"1.0","Keyframes":[
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"38eca4ef-cbb8-4ca6-bdae-d4dc437646b3","path":"sprites/Spr_boneco/Spr_boneco.yy",},},},"Disabled":false,"id":"6e74ef0b-ad8d-4f60-adea-06cd7c911c11","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"027b7593-5b8d-45a3-b264-2beb72f36186","path":"sprites/Spr_principal_quiz_per/Spr_principal_quiz_per.yy",},},},"Disabled":false,"id":"04611c61-5496-42a2-a607-e847c8a3790b","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
           ],},"modifiers":[],"spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange": null,
     "volume": 1.0,
-    "xorigin": 0,
-    "yorigin": 0,
+    "xorigin": 207,
+    "yorigin": 195,
   },
   "swatchColours": null,
   "swfPrecision": 2.525,
@@ -70,5 +70,5 @@
   },
   "type": 0,
   "VTile": false,
-  "width": 64,
+  "width": 414,
 }

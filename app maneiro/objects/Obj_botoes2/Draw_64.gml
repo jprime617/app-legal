@@ -27,22 +27,22 @@ draw_text(b_x,b_y+5,"FAZ O L")
 draw_text(b_x-40,b_y+5,"50")*/
 
 //BOTAO SPRITE
-var _sprw = sprite_get_width(Spr_botao)/2
-var _sprh = sprite_get_height(Spr_botao)/2
+var _sprw = sprite_get_width(Spr_principal_musicas)/2
+var _sprh = sprite_get_height(Spr_principal_musicas)/2
 
-var x1 = x + _sprw // X do primeiro ponto
-var y1 = y + _sprh // X do segundo ponto
+var x1 = 880 + _sprw // X do primeiro ponto
+var y1 = 940 + _sprh // X do segundo ponto
 
 
 draw_sprite_ext(botao_spr,0,x1,y1,bscale,bscale,0,c_white,balpha)
 
 if point_in_rectangle(mx,my,x1 - _sprw,y1 - _sprh,x1 + _sprw,y1 + _sprh) && global.seguir = 1{
 
-botao_spr = Spr_botao_per
+botao_spr = Spr_principal_musicas_per
 
 if mouse_check_button(mb_left){
 room_goto(Room_musicas)	
 }
 }else{
-botao_spr = Spr_botao	
+botao_spr = Spr_principal_musicas	
 }
