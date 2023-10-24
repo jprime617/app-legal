@@ -204,7 +204,7 @@
     "253": {"character":253,"h":33,"offset":0,"shift":14,"w":14,"x":47,"y":72,},
     "254": {"character":254,"h":33,"offset":1,"shift":16,"w":14,"x":63,"y":72,},
     "255": {"character":255,"h":33,"offset":0,"shift":14,"w":14,"x":486,"y":177,},
-    "9647": {"character":9647,"h":33,"offset":5,"shift":17,"w":7,"x":502,"y":177,},
+    "9647": {"character":9647,"h":33,"offset":5,"shift":27,"w":17,"x":2,"y":212,},
   },
   "hinting": 0,
   "includeTTF": false,
@@ -307,7 +307,7 @@
     {"amount":-2,"first":160,"second":923,},
   ],
   "last": 0,
-  "lineHeight": 0,
+  "lineHeight": 32,
   "maintainGms1Font": false,
   "parent": {
     "name": "Fontes",

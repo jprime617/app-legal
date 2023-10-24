@@ -1,0 +1,2 @@
+global.seguir = 1
+

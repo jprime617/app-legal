@@ -12,12 +12,12 @@ var y1 = y + _sprh // X do segundo ponto
 
 draw_sprite_ext(botao_spr,0,x1,y1,bscale,bscale,0,c_white,balpha)
 
-if point_in_rectangle(mx,my,x1 - _sprw,y1 - _sprh,x1 + _sprw,y1 + _sprh) && global.seguir = 1{
+if point_in_rectangle(mx,my,x1 - _sprw,y1 - _sprh,x1 + _sprw,y1 + _sprh){
 	
 botao_spr = Spr_botao_quiz_per
 
 if mouse_check_button_pressed(mb_left){
-global.pontos += 20;	
+global.pontos += 3;	
 global.pergunta += 1;
 }
 

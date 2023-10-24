@@ -14,19 +14,12 @@ draw_sprite_ext(botao_spr,0,x1,y1,bscale,bscale,0,c_white,balpha)
 
 if point_in_rectangle(mx,my,x1 - _sprw,y1 - _sprh,x1 + _sprw,y1 + _sprh){
 	
-botao_spr = Spr_botao_quiz_per
+botao_spr = Spr_botao_ok
 
-if mouse_check_button_pressed(mb_left) {
-global.pontos += 1;	
-global.pergunta += 1;
+if mouse_check_button_pressed(mb_left){
+global.pergunta += 1;	
 }
 
 }else{
-botao_spr = Spr_botao_quiz
+botao_spr = Spr_botao_ok	
 }
-
-//Escrever texto
-
-	draw_set_color(c_white);
-	draw_text_ext_transformed(x + 70, y + 45,"Nunca",25, 741, 2, 2, 0);
-	draw_set_font(Font2);
