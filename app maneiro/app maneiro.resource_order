@@ -40,6 +40,7 @@
     {"name":"Sound_9","order":8,"path":"sounds/Sound_9/Sound_9.yy",},
     {"name":"Spr_botao_jogar_per","order":35,"path":"sprites/Spr_botao_jogar_per/Spr_botao_jogar_per.yy",},
     {"name":"Spr_stop_per","order":9,"path":"sprites/Spr_stop_per/Spr_stop_per.yy",},
+    {"name":"Room_lololo","order":6,"path":"rooms/Room_lololo/Room_lololo.yy",},
     {"name":"Spr_play","order":7,"path":"sprites/Spr_play/Spr_play.yy",},
     {"name":"Spr_principal_emergencia","order":28,"path":"sprites/Spr_principal_emergencia/Spr_principal_emergencia.yy",},
     {"name":"Obj_botao_jogar","order":7,"path":"objects/Obj_botao_jogar/Obj_botao_jogar.yy",},
@@ -52,6 +53,7 @@
     {"name":"Obj_quiz","order":4,"path":"objects/Obj_quiz/Obj_quiz.yy",},
     {"name":"Spr_principal_calendario_per","order":27,"path":"sprites/Spr_principal_calendario_per/Spr_principal_calendario_per.yy",},
     {"name":"Sound_4","order":3,"path":"sounds/Sound_4/Sound_4.yy",},
+    {"name":"Spr_lololo","order":36,"path":"sprites/Spr_lololo/Spr_lololo.yy",},
     {"name":"Sound_2","order":1,"path":"sounds/Sound_2/Sound_2.yy",},
     {"name":"Spr_botao_per_musicas","order":5,"path":"sprites/Spr_botao_per_musicas/Spr_botao_per_musicas.yy",},
     {"name":"Spr_pause","order":6,"path":"sprites/Spr_pause/Spr_pause.yy",},
@@ -105,5 +107,6 @@
     {"name":"Sound_5","order":4,"path":"sounds/Sound_5/Sound_5.yy",},
     {"name":"Spr_salvar","order":13,"path":"sprites/Spr_salvar/Spr_salvar.yy",},
     {"name":"Obj_botao_avancar","order":10,"path":"objects/Obj_botao_avancar/Obj_botao_avancar.yy",},
+    {"name":"Obj_meme","order":1,"path":"objects/Obj_meme/Obj_meme.yy",},
   ],
 }

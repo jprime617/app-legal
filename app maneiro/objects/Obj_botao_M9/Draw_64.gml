@@ -19,15 +19,15 @@ if point_in_rectangle(mx,my,x1 - _sprw,y1 - _sprh,x1 + _sprw,y1 + _sprh){
 botao_spr = Spr_botao_per_musicas
 
 if mouse_check_button_pressed(mb_left) && pause = 0{
- audio_play_sound(som,10,0)
+ audio_play_sound(ksom,11,0)
  alarm[0] = 1
 }
 if mouse_check_button_pressed(mb_left) && pause = 1{
- audio_pause_sound(som)
+ audio_pause_sound(ksom)
  alarm[1] = 1
 }
 if mouse_check_button_pressed(mb_left) && pause = 2{
- audio_resume_sound(som)
+ audio_resume_sound(ksom)
  alarm[2] = 1
 }
 }else{
@@ -48,7 +48,7 @@ if point_in_rectangle(xx,xy,xx1 - _sprw2,yy1 - _sprh2,xx1 + _sprw2,yy1 + _sprh2)
 	stop_spr = Spr_stop_per
 	if mouse_check_button_pressed(mb_left){
 	velocidadareta = x
-	audio_stop_sound(som)
+	audio_stop_sound(ksom)
 	pause = 0
 	}
 }else{
@@ -56,7 +56,7 @@ if point_in_rectangle(xx,xy,xx1 - _sprw2,yy1 - _sprh2,xx1 + _sprw2,yy1 + _sprh2)
 }}
 
 //PARADA PROS BOTAO VAZA
-if !audio_is_playing(som){
+if !audio_is_playing(ksom){
  	pause = 0
 	velocidadareta = x
 }

@@ -32,7 +32,10 @@
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Sons","folderPath":"folders/Sons.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Sprites","folderPath":"folders/Sprites.yy",},
   ],
-  "IncludedFiles": [],
+  "IncludedFiles": [
+    {"resourceType":"GMIncludedFile","resourceVersion":"1.0","name":"memes.mp4","CopyToMask":-1,"filePath":"datafiles",},
+    {"resourceType":"GMIncludedFile","resourceVersion":"1.0","name":"memes2.mp4","CopyToMask":-1,"filePath":"datafiles",},
+  ],
   "isEcma": false,
   "LibraryEmitters": [],
   "MetaData": {
@@ -59,6 +62,7 @@
     {"id":{"name":"Sound_9","path":"sounds/Sound_9/Sound_9.yy",},},
     {"id":{"name":"Spr_botao_jogar_per","path":"sprites/Spr_botao_jogar_per/Spr_botao_jogar_per.yy",},},
     {"id":{"name":"Spr_stop_per","path":"sprites/Spr_stop_per/Spr_stop_per.yy",},},
+    {"id":{"name":"Room_lololo","path":"rooms/Room_lololo/Room_lololo.yy",},},
     {"id":{"name":"Spr_play","path":"sprites/Spr_play/Spr_play.yy",},},
     {"id":{"name":"Spr_principal_emergencia","path":"sprites/Spr_principal_emergencia/Spr_principal_emergencia.yy",},},
     {"id":{"name":"Obj_botao_jogar","path":"objects/Obj_botao_jogar/Obj_botao_jogar.yy",},},
@@ -71,6 +75,7 @@
     {"id":{"name":"Obj_quiz","path":"objects/Obj_quiz/Obj_quiz.yy",},},
     {"id":{"name":"Spr_principal_calendario_per","path":"sprites/Spr_principal_calendario_per/Spr_principal_calendario_per.yy",},},
     {"id":{"name":"Sound_4","path":"sounds/Sound_4/Sound_4.yy",},},
+    {"id":{"name":"Spr_lololo","path":"sprites/Spr_lololo/Spr_lololo.yy",},},
     {"id":{"name":"Sound_2","path":"sounds/Sound_2/Sound_2.yy",},},
     {"id":{"name":"Spr_botao_per_musicas","path":"sprites/Spr_botao_per_musicas/Spr_botao_per_musicas.yy",},},
     {"id":{"name":"Spr_pause","path":"sprites/Spr_pause/Spr_pause.yy",},},
@@ -119,6 +124,7 @@
     {"id":{"name":"Obj_botao_M2","path":"objects/Obj_botao_M2/Obj_botao_M2.yy",},},
     {"id":{"name":"Spr_mouse","path":"sprites/Spr_mouse/Spr_mouse.yy",},},
     {"id":{"name":"Room_quiz","path":"rooms/Room_quiz/Room_quiz.yy",},},
+    {"id":{"name":"Extension1","path":"extensions/Extension1/Extension1.yy",},},
     {"id":{"name":"Sound_6","path":"sounds/Sound_6/Sound_6.yy",},},
     {"id":{"name":"Spr_botao_per","path":"sprites/Spr_botao_per/Spr_botao_per.yy",},},
     {"id":{"name":"Obj_botoes31","path":"objects/Obj_botoes31/Obj_botoes31.yy",},},
@@ -130,6 +136,7 @@
     {"id":{"name":"Sound_5","path":"sounds/Sound_5/Sound_5.yy",},},
     {"id":{"name":"Spr_salvar","path":"sprites/Spr_salvar/Spr_salvar.yy",},},
     {"id":{"name":"Obj_botao_avancar","path":"objects/Obj_botao_avancar/Obj_botao_avancar.yy",},},
+    {"id":{"name":"Obj_meme","path":"objects/Obj_meme/Obj_meme.yy",},},
     {"id":{"name":"Room_principal","path":"rooms/Room_principal/Room_principal.yy",},},
   ],
   "RoomOrderNodes": [
@@ -139,6 +146,7 @@
     {"roomId":{"name":"Room_quiz","path":"rooms/Room_quiz/Room_quiz.yy",},},
     {"roomId":{"name":"Room_calendario","path":"rooms/Room_calendario/Room_calendario.yy",},},
     {"roomId":{"name":"Room_musicas2","path":"rooms/Room_musicas2/Room_musicas2.yy",},},
+    {"roomId":{"name":"Room_lololo","path":"rooms/Room_lololo/Room_lololo.yy",},},
   ],
   "templateType": null,
   "TextureGroups": [
